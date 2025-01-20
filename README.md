@@ -1,3 +1,5 @@
+[FORKED FROM https://raw.githubusercontent.com/tubiana/pymol-color-alphafold/refs/heads/master/coloraf.py]
+
 This is a pymol extension to color structures from the [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/) by pLDDT.
 
 1. Load extension into pymol. In the pymol command prompt:
